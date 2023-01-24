@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Drowsy Driving App</string>
+    <string name="get_started">Get Started</string>
+    <string name="skip">Skip</string>
+    <string name="get_start">Get Started</string>
+    <string name="skippy">Skip</string>
+    <string-array name="model_array">
+        <item>192</item>
+        <item>320</item>
+        <item>640</item>
+    </string-array>
+</resources>
